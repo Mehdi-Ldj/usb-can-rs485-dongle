@@ -1,0 +1,259 @@
+(footprint "DB2EVC-3.81-5P"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "DORABO DB2EVC-3.81-5P-GN, 5-pin 3.81mm vertical pluggable terminal block header, 1.4mm drill")
+	(tags "terminal block 3.81mm 5P vertical DORABO")
+	(property "Reference" "J2"
+		(at 7.62 -4.2 90)
+		(layer "F.Fab")
+		(uuid "a249cfa1-10d4-4175-adea-9b4dba66c38d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "DB2EVC-3.81-5P"
+		(at 7.62 6.5 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3a1b6155-de41-4df2-b473-87bc123c3a87")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4df249d5-a2af-47f1-af45-e38db834f6f5")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c1a38bb2-2126-4cf7-964c-0e15b18bd81b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.405 -2.4)
+		(end -2.405 -0.8)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "49958005-ff3e-431f-81fb-dcd2120b3583")
+	)
+	(fp_line
+		(start -2.405 -2.4)
+		(end -0.8 -2.4)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "db231f7d-a3e8-44d7-8016-a27823eabc2b")
+	)
+	(fp_line
+		(start -2.405 -2.4)
+		(end 17.645 -2.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1fddd982-068d-42b4-b7ab-c65f8f1ead78")
+	)
+	(fp_line
+		(start -2.405 4.9)
+		(end -2.405 -2.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cfbc5a34-ae8e-4b4a-85b4-fc0cb46d4e12")
+	)
+	(fp_line
+		(start 17.645 -2.4)
+		(end 17.645 4.9)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6ec0ff33-4b48-4d34-abce-65a784febfc5")
+	)
+	(fp_line
+		(start 17.645 4.9)
+		(end -2.405 4.9)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "540e0a80-cb4f-421f-b269-87fde2164a71")
+	)
+	(fp_line
+		(start -2.655 -2.65)
+		(end 17.895 -2.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6e3f7807-f0c7-4cc4-957e-88e036cdc040")
+	)
+	(fp_line
+		(start -2.655 5.15)
+		(end -2.655 -2.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d040558e-662d-4810-8673-308721229d51")
+	)
+	(fp_line
+		(start 17.895 -2.65)
+		(end 17.895 5.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3a6ff34e-32f4-4a9d-9e0f-74e6426e1eaa")
+	)
+	(fp_line
+		(start 17.895 5.15)
+		(end -2.655 5.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c7cff325-5b44-445b-b79f-18f119a31b15")
+	)
+	(fp_line
+		(start -2.405 -2.4)
+		(end 17.645 -2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5fe326fe-a26d-4f50-a9d8-cb8044dfbfcf")
+	)
+	(fp_line
+		(start -2.405 4.9)
+		(end -2.405 -2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3491a433-59e9-4312-91ed-5eb347008364")
+	)
+	(fp_line
+		(start 17.645 -2.4)
+		(end 17.645 4.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "96501436-514c-439e-8fb0-87bd3a61e76d")
+	)
+	(fp_line
+		(start 17.645 4.9)
+		(end -2.405 4.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cfcfb5f9-7aeb-4d7f-8714-d1cd3020efb2")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 7.62 2.5 90)
+		(layer "F.Fab")
+		(uuid "f86dbed2-eb32-4a13-95e5-aa4c4489accb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0 90)
+		(size 2.4 2.4)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
+		(uuid "bac40d02-dac1-4d67-9d3d-a338d2379867")
+	)
+	(pad "2" thru_hole circle
+		(at 3.81 0 90)
+		(size 2.4 2.4)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "93d015c1-d359-415b-8219-2d3b949c35ed")
+	)
+	(pad "3" thru_hole circle
+		(at 7.62 0 90)
+		(size 2.4 2.4)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e5962dbd-0e89-42ed-a2ec-c7c5e605f753")
+	)
+	(pad "4" thru_hole circle
+		(at 11.43 0 90)
+		(size 2.4 2.4)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5c63aaab-8948-4b81-aa1a-d0a5227fe6b7")
+	)
+	(pad "5" thru_hole circle
+		(at 15.24 0 90)
+		(size 2.4 2.4)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "27074d86-8857-44bf-ae3b-f638fc8c67a0")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MCV_1,5_5-G-3.81_1x05_P3.81mm_Vertical.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

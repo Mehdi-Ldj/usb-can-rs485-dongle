@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "CAN485-dongle")(type "KiCad")(uri "${KIPRJMOD}/CAN485-dongle.pretty")(options "")(descr "Project footprints"))
+)
