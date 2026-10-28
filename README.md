@@ -152,3 +152,7 @@ portfolio repository.
 
 License not yet selected. Add one before publishing if this repository is meant to be
 reused.
+
+## Licence
+
+Released under the [CERN Open Hardware Licence Version 2 – Permissive](LICENSE).
